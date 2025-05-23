@@ -59,3 +59,11 @@ The app can suggest one of several IT roles, such as:
 - scikit-learn
 - pandas
 - joblib
+
+#📁 Project Structure
+  it-role-predictor/
+├── app.py                   # Streamlit frontend
+├── skill_prediction_model.pkl  # Trained ML model
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
