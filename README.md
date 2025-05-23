@@ -1,6 +1,6 @@
 # 🧠 IT Role Predictor
 
-This is a Streamlit web application that predicts the most suitable IT role for a user based on their skill levels across various technical and soft skills. The prediction is powered by a trained Machine Learning model.
+This is a Streamlit web application that predicts the most suitable IT role for a user based on their skill levels across various technical and soft skills. The prediction is powered by a trained random Forest model.
 
 ## 🚀 Features
 
@@ -60,10 +60,10 @@ The app can suggest one of several IT roles, such as:
 - pandas
 - joblib
 
-#📁 Project Structure
+##📁 Project Structure
   it-role-predictor/
-├── app.py                   # Streamlit frontend
-├── skill_prediction_model.pkl  # Trained ML model
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+├── app.py                # Streamlit frontend  <br>  
+├── skill_prediction_model.pkl  # Trained ML model  <br>  
+├── requirements.txt         # Python dependencies  <br>  
+└── README.md                # Project documentation  <br>  
 
