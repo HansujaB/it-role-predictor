@@ -10,7 +10,7 @@ https://it-role-predictor.onrender.com/
 - 17 skill inputs including Programming, AI/ML, Communication, and more
 - Predicts ideal IT role using a trained `RandomForestClassifier` model
 - Clean and interactive UI built with Streamlit
-- Deployable on platforms like Render or Streamlit Cloud
+- Deployed on Render
 
 ## 📊 Skills Considered
 
