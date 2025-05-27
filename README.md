@@ -67,7 +67,7 @@ The app can suggest one of several IT roles, such as:
 <br>
   it-role-predictor/  <br>
 ├── app.py                # Streamlit frontend  <br>  
-├── skill_prediction_model.pkl  # Trained ML model  <br>  
+├── it_role_prediction_model.pkl  # Trained ML model  <br>  
 ├── requirements.txt         # Python dependencies  <br>  
 └── README.md                # Project documentation  <br>  
 
