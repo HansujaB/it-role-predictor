@@ -12,12 +12,12 @@ and get a personalized career recommendation.
 """)
 
 # Load model
-model = joblib.load("skill_prediction_model.pkl")
+model = joblib.load("it_role_prediction_model.pkl")
 
 # Define skill mappings
 skill_mapping = {
-    "Not Interested": 4, "Poor": 5, "Beginner": 1, "Average": 0,
-    "Intermediate": 3, "Excellent": 2, "Professional": 6
+'Not Interested':0, 'Poor':1, 'Beginner':2, 'Average':3, 'Intermediate':4,
+       'Excellent':5, 'Professional':6
 }
 
 it_role_mapping = {
